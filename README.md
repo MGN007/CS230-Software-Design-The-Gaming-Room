@@ -25,4 +25,4 @@ I focused a lot on the user’s experience throughout the design. The client wan
 
 My Approach to Software Design:
 
-When I design software, I like to start by breaking down what’s needed and sketching out how the parts will fit together, while consitently reviewing requirements and documentations to ensure all aspect required are covered. Moving forward, I want to continue using that structured approach,while also getting more feedback earlier in the process to catch any small technical issues before they become largert issues later on.
+When I design software, I like to start by breaking down what’s needed and sketching out how the parts will fit together, while consistently reviewing requirements and documentation to make sure every aspect is covered. Moving forward, I want to keep using that structured approach, but also get feedback earlier in the process to catch small technical issues before they turn into bigger problems later on.
